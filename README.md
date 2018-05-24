@@ -1,7 +1,7 @@
 # TensorFlow
 
 **Data Website:**
-https://crowdanalytix.com/contests
+https://crowdanalytix.com/listContests
 
 **Algorithms:**
 * LinearClassifier
