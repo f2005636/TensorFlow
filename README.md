@@ -1,7 +1,7 @@
 # TensorFlow
 
 **Data Website:**
-https://crowdanalytix.com/contests/business-analytics-for-beginners-using-r---part-ii
+https://crowdanalytix.com/contests
 
 **Algorithms:**
 * LinearClassifier
